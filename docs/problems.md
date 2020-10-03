@@ -7,7 +7,7 @@ mathjax: true
 
 # Problem Sheets
 
-Each week a problem sheet will be posted which you should either complete or work at for 2 hours (whichever is shorter).  The schedule is designed so that you can attempt the problem sheet already after watching the first lecture of each week (and I recommend that).
+Each week a problem sheet will be posted which you should either complete or work at for 2 hours (whichever is shorter).  The schedule is designed so that you can attempt the problem sheet already after watching the first lecture of each week.  In weeks 1 and 2, I recommend also watching the supplementary lecture before attempting the problem sheet because you will be asked to prove some simple logical statements.
 
 *You will only succeed on this unit by carefully attempting the problem sheets.*
 
