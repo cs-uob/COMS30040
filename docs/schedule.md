@@ -11,3 +11,4 @@ The lectures are divided into *core* and *supplementary*.  The core lectures pre
 
 | Week | Core 1 | Supplementary | Core 2 |
 |:-----|:-------|:--------------|:-------|
+| 1    |        |               |        |
