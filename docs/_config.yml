@@ -3,3 +3,6 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: foo
 compress_html:
   blanklines: true
+aux_links:
+  "Goto the COMS30040 Team":
+  - "https://teams.microsoft.com/l/team/19%3a8806fad2850c4ddbad9664ed047d025d%40thread.tacv2/conversations?groupId=13f59f32-38ba-4183-b70e-522737e1596b&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b"
