@@ -29,4 +29,7 @@ It is highly recommended that you submit your solutions to Eddie and Sam for mar
 
 *This means you should probably try to block out 2-3 hours of time to work on the problems on Wednesday or Thursday.*
 
+* Samantha Frohlich: sf16540
+* Eddie Jones: ej16147
+
 You have been allocated to one of the problem classes and you should receive a calendar invitation to your class each week.  It will take the form of a video call hosted on Teams, in the Class E (for Eddie) or Class S (for Sam) channel.  You can either join directly from the invite, by clicking the Join button on the entry in the Calendar pivot within the Teams app or by entering the channel and clicking the Join button on the meeting announcement.
