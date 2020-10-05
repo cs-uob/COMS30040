@@ -39,7 +39,7 @@ We will be using Microsoft Teams for all the interactive parts of the unit.  You
   * __Room E__: Eddie's classes are held here and your work will be returned to you through the Files tab.
   * __Room S__: Sam's classes are held here and your work will be returned to you through the Files tab.
 
-You should receive calendar invites for the Q&A sessions and the classes closer to the time.  These invites will link you directly into Teams and so supercede the generic timetabling info that may currently occupy the same slots in your calendar.
+To attend a QA session or a class, just goto the appropriate channel in Teams and wait for a post that says that this week's meeting has started, this post will have a "Join" button that you can click to come in.
 
 ### Workload
 
