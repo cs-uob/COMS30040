@@ -32,4 +32,4 @@ It is highly recommended that you submit your solutions to Eddie and Sam for mar
 * Samantha Frohlich: sf16540
 * Eddie Jones: ej16147
 
-You have been allocated to one of the problem classes and you should receive a calendar invitation to your class each week.  It will take the form of a video call hosted on Teams, in the Class E (for Eddie) or Class S (for Sam) channel.  You can either join directly from the invite, by clicking the Join button on the entry in the Calendar pivot within the Teams app or by entering the channel and clicking the Join button on the meeting announcement.
+You have been allocated to one of the two problem classes.  It will take the form of a video call hosted on Teams, in the Class E (for Eddie) or Class S (for Sam) channel.  To attend, go to the channel at 2pm on Tuesdays and wait until a new meeting post appears and you will find a little "Join" button to one side.  Click this button to enter the class.
