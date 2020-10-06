@@ -43,7 +43,7 @@ To attend a QA session or a class, just goto the appropriate channel in Teams an
 
 ### Workload
 
-This is a 10 credit unit, and the unit runs during weeks 1--7.  You should expect to around 10 hours per week working on it.  There are 5 main activities:
+This is a 10 credit unit, and the unit runs during weeks 1--7.  You should expect to spend around 10 hours per week working on it.  There are 5 main activities:
 * __Prerecorded lectures.__ At the start of each week, three prerecorded lectures will be posted on the unit website which you need to watch in your own time.
 * __Problems.__ You will only learn on this unit by completing the problem sheets and exercises.  There is one sheet released each week and you are expected to work on it in your own time.
 * __Online classes.__  Excepting week 1, every Tuesday there is a problem class in which our senior TAs, Eddie Jones and Samantha Frohlich, will guide you through the solutions and try to help with any questions you have.  Note: Monday 5pm-6pm is timetabled for "Peer Learning", we will not be using this slot.
