@@ -23,6 +23,8 @@ Each week a problem sheet will be posted which you should either complete or wor
 
 The problems are graded from 1 to 3 stars.  A 1-star problem is usually just a matter of calculation after a close reading of the relevant definitions.  A 2-star problem requires some thought and possibly a proof, but it follows a similar pattern to something we saw in lectures.  A 3-star problem requires some new insight and probably an element of trial and error (a.k.a luck) because you have not seen problems of a similar shape before.
 
+As extra practice, try to prove that the pure, untyped lambda calculus is Turing-complete by following Eddie's exercises [here](https://uob.sharepoint.com/teams/grp-COMS30040/Shared%20Documents/General/Problems/turing.pdf).
+
 ## Marking and the Problem Class
 
 It is highly recommended that you submit your solutions to Eddie and Sam for marking.  You can do this by emailing a copy to your TA with deadline *5pm on Thursday*.  Your sheet will be returned to you in the problem class.
