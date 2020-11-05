@@ -50,7 +50,9 @@ This is a 10 credit unit, and the unit runs during weeks 1--7.  You should expec
 * __Lecturer Q&A.__ Excepting week 1, every Monday at 3pm there will be a one-hour Q&A with the lecturer.  In week 1, this will start at 3:30pm due to Welcome Week events.  Apart from week 1, I recommend you attend the Q&A only if you wish to ask a question (it will be recorded so you will not miss out on an answer).
 * __Reading/Revising.__  You will often benefit from alternative explanations of the same concepts, which would not fit into the time available for lectures.  You will need to spend time revising and rethinking topics before you can solve the associated problems.
 
-*Each week, I recommend that you adopt the following pattern. Watch the first core lecture and the supplementary lecture.  Attend your problem class.  Then attempt this week's problem sheet and be sure to submit your solutions before Thursday 5pm. Finally watch the second core lecture.  If anything is unclear, come to the Q&A at the start of the following week and let's discuss it.*
+*Each week, I recommend that you adopt the following pattern:*
+* Weeks 1 and 2: *Watch the first core lecture and the supplementary lecture and attend your problem class (in any order).  Then attempt this week's problem sheet and be sure to submit your solutions before Thursday 5pm. Finally watch the second core lecture.  If anything is unclear, come to the Q&A at the start of the following week and let's discuss it.*
+* Weeks 3 to 7: *Watch the first core lecture and attend your problem class (in any order).  Then attempt this week's problem sheet and be sure to submit your solutions before Thursday 5pm. Finally watch the second core lecture and the supplementary lecture.  If anything is unclear, come to the Q&A at the start of the following week and let's discuss it.*
 
 ### Assessment
 
