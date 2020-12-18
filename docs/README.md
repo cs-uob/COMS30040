@@ -60,10 +60,12 @@ This unit is assessed by a written exam.
 
 The exam consists of two questions of 25 marks each, and each question is the same format as a (short) problem sheet.  One question is on the untyped lambda calculus and the other on the type system.  You may use the lecture notes, but you must not collaborate.
 
+You will find the date and time of the exam listed in your exam timetable.  Shortly before the exam, a Blackboard assessment point will be created on the Blackboard page for this unit.  At the time of the exam you should navigate to this assessment point where you will be able to download a copy of the paper in PDF format.  You may start the exam immediately.  You will have two hours to write your solutions and a further period of additional time (which is yet to be standardised across the department) in which to upload your solutions back to the assessment point (e.g. after scanning or photographing them).  See [here](https://www.ole.bris.ac.uk/bbcswebdav/pid-490921-dt-announcement-rid-14254044_4/institution/TEL/TEL guides/Student-facing guides/Submitting handwritten materials/index.html) for the University's guidance on uploading handwritten materials.
+
 The questions are set so that, roughly two eighths are of 1* difficulty (routine calculations), five eighths are of 2* difficulty (problems that require thought but which follow a familiar pattern) and the remaining one eighth is of 3* difficulty (problems which are unusual and/or very difficult).  The last 3 or 4 marks of each question is that of 3* difficulty, so you may wish to leave these parts to the end.  You can solve the problems in any order as long as you indicate clearly.
 
 The following are (adaptations) of past papers:
-* [Practice Paper 1](https://uob.sharepoint.com/teams/grp-COMS30040/Shared%20Documents/General/Papers/past-2020-1.pdf)
-* [Practice Paper 2](https://uob.sharepoint.com/teams/grp-COMS30040/Shared%20Documents/General/Papers/past-2020-2.pdf)
+* [Practice Paper 1](https://uob.sharepoint.com/teams/grp-COMS30040/Shared%20Documents/General/Papers/past-2020-1.pdf) [Solutions](https://uob.sharepoint.com/teams/grp-COMS30040/Shared%20Documents/General/Papers/past-2020-1-answers.pdf)
+* [Practice Paper 2](https://uob.sharepoint.com/teams/grp-COMS30040/Shared%20Documents/General/Papers/past-2020-2.pdf) [Solutions](https://uob.sharepoint.com/teams/grp-COMS30040/Shared%20Documents/General/Papers/past-2020-2-answers.pdf)
 
 The first questions of these past papers were about recalling a definition.  There will be no questions of this form on the exam this year because you are able to use the lecture notes.
