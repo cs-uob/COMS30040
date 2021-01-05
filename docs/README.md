@@ -56,7 +56,7 @@ This is a 10 credit unit, and the unit runs during weeks 1--7.  You should expec
 
 ### Assessment
 
-This unit is assessed by a written exam on <b>19 January at 09:45 GMT</b>.
+This unit is assessed by a written exam on <b>20 January at 09:45 GMT</b>.
 
 The exam consists of two questions of 25 marks each, and each question is the same format as a (short) problem sheet.  One question is on the untyped lambda calculus and the other on the type system.  You may use the lecture notes, but you must not collaborate.
 
